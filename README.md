@@ -3,7 +3,7 @@
 All the basic and advanced guidelines to start your Stellar Builder Journey !
 
 Step 1: Understand the basics
-        *Smart Contracts
+        *Smart Contracts*
         *Stellar Network
         *Soroban
         
