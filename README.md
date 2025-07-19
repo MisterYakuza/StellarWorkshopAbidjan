@@ -1,12 +1,9 @@
 # StellarWorkshopAbidjan
-Toutes les directives de base et avancées pour démarrer votre parcours Stellar Builder !
-(par la communauté Stellar Côte D'Ivoire 🇨🇮)
-
-# StellarWorkshopAbidjan
 
 ![Stellar](https://img.shields.io/badge/Stellar-Network-blue) ![Soroban](https://img.shields.io/badge/Soroban-Smart%20Contracts-green) ![Rust](https://img.shields.io/badge/Rust-Programming-orange)
 
-Tous les guides basiques et avancés pour commencer votre **Parcours de Développeur Stellar** !
+Toutes les directives de base et avancées pour démarrer votre **Parcours de Développeur Stellar** !
+(par la communauté Stellar Côte D'Ivoire 🇨🇮)
 
 ## Table des Matières
 - [Étape 1 : Comprendre les Bases](#étape-1--comprendre-les-bases)
