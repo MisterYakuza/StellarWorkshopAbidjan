@@ -1,4 +1,4 @@
-# StellarWorkshopAbidjan
+# StellarWorkshopAbidjan (Côte D'Ivoire 🇨🇮)
 
 ![Stellar](https://img.shields.io/badge/Stellar-Network-blue) ![Soroban](https://img.shields.io/badge/Soroban-Smart%20Contracts-green) ![Rust](https://img.shields.io/badge/Rust-Programming-orange)
 
